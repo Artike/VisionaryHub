@@ -34,3 +34,35 @@ async def search_amazon(message: types.Message):
 
 if __name__ == "__main__":
     executor.start_polling(dp, skip_updates=True)
+You reached the start of the range → Feb 4, 2025 3:51 PM
+
+ 
+
+[Region: us-west1]
+
+==============
+
+Using Nixpacks
+
+==============
+
+
+context: d2b65e97c3be73b5595367b16486ba79
+
+Nixpacks build failed
+
+ 
+
+ 
+
+Nixpacks was unable to generate a build plan for this app.
+
+Please check the documentation for supported languages: https://nixpacks.com
+
+ 
+
+The contents of the app directory are:
+
+ 
+
+README.md
